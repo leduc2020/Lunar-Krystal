@@ -1,11 +1,11 @@
 module.exports.config = {
-  name: "gái",	
+  name: "anhchill",	
   version: "4.0.0", 
   hasPermssion: 0,
   credits: "Vtuan",
   description: "sos", 
   commandCategory: "Ảnh",
-  usages: "gái",
+  usages: "anhchill",
   cooldowns: 0
 };
 
