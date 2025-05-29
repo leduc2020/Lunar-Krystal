@@ -1,11 +1,11 @@
 module.exports.config = {
-  name: "a",
+  name: "bím",
   version: "1.0.0",
   hasPermssion: 0,
   credits: "hi",
   description: "Random Ảnh 18+",
   commandCategory: "Ảnh",
-  usages: "a",
+  usages: "bím",
   cooldowns: 2,
   dependencies: {
     "request":"",
